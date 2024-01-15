@@ -1,0 +1,14 @@
+{
+  "name": "ModUtils Example",
+  "author": "Aidanamite",
+  "description": "Just an example mod of how to implement the ModUtils mod",
+  "version": "1.2.3",
+  "license": "GNU AGPLv3",
+  "icon": "icon.png",
+  "banner": "banner.jpg",
+  "gameVersion": "1.0",
+  "requiredByAllPlayers": false,
+  "updateUrl": "https://www.raftmodding.com/api/v1/mods/mod-utils-example/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
